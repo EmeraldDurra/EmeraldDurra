@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [emeralddurra.github.io](emeralddurra.github.io)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QGRsM83F1pCykvuNnTMOn_ib5seS_XDq/view?usp=sharing](https://drive.google.com/file/d/1QGRsM83F1pCykvuNnTMOn_ib5seS_XDq/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1QGRsM83F1pCykvuNnTMOn_ib5seS_XDq/view?usp=sharing)
 
 - 💬 Ask me about **CAD Inventor 3D, ImageProcessing, SQL Databank**
 
 - 📫 How to reach me **emeralddurra@gmail.com**
 
-- ⚡ Fun fact [I have 1 sister, which is only 1 year younger than me](I have 1 sister, which is only 1 year younger than me)
+- ⚡ Fun fact: I have 1 sister, which is only 1 year younger than me
 
 - Notes **I am also joining Erasmus Student Network Berlin**
 
